@@ -1,0 +1,29 @@
+.container {
+    background-color: rgb(238, 237, 226);
+    padding: 20px;
+}
+
+.wrapper-area {
+    display: flex;
+
+}
+
+.input {
+    display: flex;
+    flex: 1;
+    height: 10vh;
+    margin-right: 20px;
+    border: none;
+}
+
+.button {
+    background-color: transparent;
+    font-size: 2.5rem;
+    border: none;
+    margin-right: 10px;
+
+}
+.button:hover {
+    color: green;
+
+}

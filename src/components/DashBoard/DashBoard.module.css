@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    height: 80vh;
+}
+
+.chat-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
